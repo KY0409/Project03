@@ -27,5 +27,5 @@ Configure AWS Glue to point to the S3 bucket which allow us to interatively quer
 
 
 ## Configs
-![kinesis_config](https://github.com/KY0409/Project2/blob/main/cluster_configuration.png)
-![s3_bucket](https://github.com/KY0409/Project2/blob/main/notebook_configuration.png)
+![kinesis_config](https://github.com/KY0409/Project03/blob/main/kinesis_config.png)
+![s3_bucket](https://github.com/KY0409/Project03/blob/main/screenshot_of_s3_bucket.png)
