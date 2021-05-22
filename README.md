@@ -2,7 +2,7 @@
 In this project, we are going to utilize the following Amazon AWS technologies to process and analyze real-time stock price on 05/11/2021 for 10 companies at a 5 minute interval, processing the data and then dumping it in a manner that facilitates querying and further analysis, either in real time or near real time capacity.
 
 
-## AWS tool used
+## AWS tools used
 
 ###
 1. AWS Lambda and layer
