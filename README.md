@@ -4,11 +4,12 @@ In this project, we are going to utilize the Amazon aws technologies to process 
 
 ## AWS tool used
 
-AWS Lambda
-AWS Kinesis Stream(Data Stream and Delivery Stream)
-AWS S3 bucket
-AWS Glue and Crawler
-AWS Athena to query data 
+###
+1. AWS Lambda
+2. AWS Kinesis Stream(Data Stream and Delivery Stream)
+3. AWS S3 bucket
+4. AWS Glue and Crawler
+5. AWS Athena to query data 
 
 Step I: Lambda Function(DataTransformer)
 
