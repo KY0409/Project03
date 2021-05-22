@@ -21,11 +21,11 @@ Create a Kinesis stream that holds our data
 
 Step3: Athena(DataAnalyzer)
 
-Configure AWS Glue to point to the S3 bucket which allow us to interatively query the S3 files .
+Configure AWS Glue to point to the S3 bucket which allow us to interatively query the highest hourly stock “high” per company 
 
 
 
 
-## Cluster and Notebook Configs
-![cluster](https://github.com/KY0409/Project2/blob/main/cluster_configuration.png)
-![notebook](https://github.com/KY0409/Project2/blob/main/notebook_configuration.png)
+## Configs
+![kinesis_config](https://github.com/KY0409/Project2/blob/main/cluster_configuration.png)
+![s3_bucket](https://github.com/KY0409/Project2/blob/main/notebook_configuration.png)
